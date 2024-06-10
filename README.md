@@ -34,9 +34,10 @@ Hi there! I'm David Alzate, a Systems Engineering student at [UCO](https://uco.e
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 # ⚙️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=David-Alzate&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=David-Alzate&theme=dark&hide_border=false)&nbsp;<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=David-Alzate&icon=2&color=0)](https://visitcount.itsvg.in)
