@@ -24,25 +24,21 @@ Hi there! I'm David Alzate, a Systems Engineering student at [UCO](https://uco.e
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-#### Tools and Technologies
+#### Tools and Technologies:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
-#### IDEs
+#### IDEs:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-
-
 # ⚙️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=David-Alzate&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=David-Alzate&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=David-Alzate&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
