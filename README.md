@@ -1,5 +1,5 @@
-# 💫   About Me:
-Hi there! I'm David Alzate, a Systems Engineering student at [UCO](https://uco.edu.co). <br>I am passionate about leveraging my skills to solve real-world problems and continuously learning to stay updated with the latest industry trends.<br>
+# About Me:
+Hi there! I'm David Alzate, a Systems Engineering student. <br>I am passionate about leveraging my skills to solve real-world problems and continuously learning to stay updated with the latest industry trends.<br>
 
 
 ## Skills:
@@ -30,16 +30,16 @@ Hi there! I'm David Alzate, a Systems Engineering student at [UCO](https://uco.e
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 #### IDEs:
+![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 # ⚙️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=David-Alzate&theme=dark&hide_border=false)&nbsp;<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=David-Alzate&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=David-Alzate&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
