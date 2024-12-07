@@ -1,8 +1,18 @@
-# About Me:
-Hi there! I'm David Alzate, a Systems Engineering student. <br>I am passionate about leveraging my skills to solve real-world problems and continuously learning to stay updated with the latest industry trends.<br>
+<h1><b>Hi there! I'm David Alzate </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23537fe0&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+Student">
+  </a>
+</p>
 
 
-## Skills:
+<br>I am passionate about leveraging my skills to solve real-world problems and continuously learning to stay updated with the latest industry trends.<br>
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Skills:
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 #### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -33,12 +43,19 @@ Hi there! I'm David Alzate, a Systems Engineering student. <br>I am passionate a
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-# ⚙️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=David-Alzate&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=David-Alzate&theme=dark&hide_border=false)&nbsp;<br/>
+## ⚙️ GitHub Stats:
 
+<p align="center" style="display: flex; justify-content: space-between; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=david-alzate&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" 
+         alt="Github Stats" 
+         style="width: 50%; height: auto;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Alzate&theme=dark&hide_border=false&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" 
+         alt="GitHub Streak Stats" 
+         style="width: 45%; height: auto;">
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 [![](https://visitcount.itsvg.in/api?id=David-Alzate&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
