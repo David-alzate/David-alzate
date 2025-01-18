@@ -1,10 +1,6 @@
 <h1><b>Hi there! I'm David Alzate </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23537fe0&size=25&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering;Java+Developer">
-  </a>
-</p>
+![snake gif](https://github.com/David-alzate/David-alzate/blob/output/github-snake-dark.svg)
 
 
 <br>I am passionate about applying my skills to solve real-world challenges, focusing on creating impactful and innovative solutions. I am committed to continuous learning and staying abreast of the latest industry trends to deliver high-quality results and grow as a professional.<br>
