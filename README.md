@@ -3,7 +3,7 @@
 ![snake gif](https://github.com/David-alzate/David-alzate/blob/output/github-snake-dark.svg)
 
 
-<br>I am passionate about applying my skills to solve real-world challenges, focusing on creating impactful and innovative solutions. I am committed to continuous learning and staying abreast of the latest industry trends to deliver high-quality results and grow as a professional.<br>
+<br>I am passionate about applying my skills to solve real-world challenges, focusing on creating impactful and innovative solutions. I am committed to continuous learning and staying abreast of the latest industry trends to deliver high-quality results and grow as a professional<br>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Skills:
